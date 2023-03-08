@@ -8,13 +8,13 @@
 }
 
   .photo {
-    width: 200px; 
+    width: 200px;
     height: 280px;
     border-radius: 50px;
 }
 
 .picturs {
     font-size: 16px;
-    text-align: justify; 
+    text-align: justify;
     color:black;
 }

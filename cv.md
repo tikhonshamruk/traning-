@@ -6,7 +6,7 @@
 # Contacts:
 
 ---
-  
+
   -  tikhonshamruk(gitHub)
   - tikhonshamruk@gmail.com
   - samr1k(telegram)
@@ -31,14 +31,14 @@
    - Figma
    - TypeScirpt
 
-# Code Examples 
+# Code Examples
 
 ---
 
 ```javascript
    function productFib(prod){
      var n = 0;
-     var nPlus = 1;  
+     var nPlus = 1;
      while(n*nPlus < prod) {
     nPlus = n + nPlus;
     n = nPlus - n;
