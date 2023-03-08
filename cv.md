@@ -1,3 +1,23 @@
+---
+# Shamruk Tikhon
+
+---
+
+# Contacts:
+
+---
+
+  - tikhonshamruk@gmail.com
+  - samr1k(telegram)
+  - Tihon#2491
+
+# About me
+
+---
+
+   I enjoy learning and working with new technologies and can pick them up quickly.
+
+# Skills
 
 ---
 
